@@ -29,6 +29,7 @@ The required files can be downloaded via Telegram:
 - Make sure to temporarily disable your antivirus during the installation and activation process, as some files might be flagged incorrectly.
 - Ensure you have administrative rights on your computer before proceeding with the installation.
 
-Practice problems for SPSS : [SPSS Coding With Problems](https://github.com/anmmashud/SPSS_Coding_With_Problems)
+### Practice problems for SPSS
+Click here : [SPSS Coding With Problems](https://github.com/anmmashud/SPSS_Coding_With_Problems)
 ---
 
