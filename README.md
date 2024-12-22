@@ -30,6 +30,6 @@ The required files can be downloaded via Telegram:
 - Ensure you have administrative rights on your computer before proceeding with the installation.
 
 ### Practice problems for SPSS
-Click here : [SPSS Coding With Problems](https://github.com/anmmashud/SPSS_Coding_With_Problems)
+- [Research Notebook: SPSS Coding With Problems](https://github.com/anmmashud/SPSS_Coding_With_Problems)
 ---
 
